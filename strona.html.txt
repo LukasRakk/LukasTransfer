@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transport na Lotnisko i Wycieczki</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Nagłówek strony -->
+    <header>
+        <div class="logo">
+            <!-- Wstaw logo zamiast tekstu -->
+            <img src="C:/Users/lukas/OneDrive/Pulpit/Images/logo.png" alt="Lukas Transfer Logo" width="150">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">O nas</a></li>
+                <li><a href="#">Usługi</a></li>
+                <li><a href="#">Cennik</a></li>
+                <li><a href="#">Opinie</a></li>
+                <li><a href="#">Kontakt</a></li>
+            </ul>
+        </nav>
+        <a href="#" class="cta-button">Zarezerwuj teraz</a>
+    </header>
+
+    <!-- Sekcja Hero -->
+    <section class="hero">
+        <h2>Bezpieczne i Komfortowe Przewozy na Lotnisko oraz Wycieczki</h2>
+        <p>Oferujemy profesjonalny transport na lotniska oraz do atrakcji turystycznych takich jak Auschwitz i Zakopane.</p>
+        <a href="#" class="cta-button">Zarezerwuj teraz</a>
+    </section>
+
+    <!-- Inne sekcje... -->
+</body>
+</html>
